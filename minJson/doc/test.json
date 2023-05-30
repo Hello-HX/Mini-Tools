@@ -1,0 +1,74 @@
+{
+    "debug.onTaskErrors": "debugAnyway",
+    "workbench.preferredLightColorTheme": "Default Dark+",
+    "editor.fontSize": 20,
+    "editor.lineHeight": 26,
+    "editor.lineNumbers": "on",
+    "tabnine.experimentalAutoImports": true,
+    "code-runner.runInTerminal": true,
+    "code-runner.showStopIconInEditorTitleMenu": false,
+    "workbench.iconTheme": "eq-material-theme-icons-palenight",
+    "editor.mouseWheelZoom": true,
+    "editor.fontFamily": "FiraCode-Medium",
+    "terminal.integrated.fontFamily": "Cousine Nerd Font",
+    "background.customImages": [
+        "\"C:\\Users\\陈焕新\\Pictures\\wallhaven-9m3vkd.jpg\""
+    ],
+    "background.useDefault": false,
+    "files.autoGuessEncoding": true,
+
+    "vim.easymotion": true,
+    "vim.incsearch": true,
+    "vim.useSystemClipboard": true,
+    "vim.useCtrlKeys": true,
+    "vim.hlsearch": true,
+    "vim.insertModeKeyBindings": [
+        {
+            "before": ["j","k","j"],
+            "after": ["<Esc>"]
+        }
+    ],
+    "vim.normalModeKeyBindingsNonRecursive": [
+        {
+            "before": ["<leader>", "d"],
+            "after": ["d", "d"]
+        },
+        {
+            "before": ["<C-n>"],
+            "commands": [":nohl"]
+        },
+        {
+            "before": ["K"],
+            "commands": ["lineBreakInsert"],
+            "silent": true
+        }
+    ],
+    "vim.leader": "<space>",
+    "vim.handleKeys": {
+        "<C-a>": false,
+        "<C-f>": false
+    },
+    "editor.unicodeHighlight.invisibleCharacters": false,
+    "editor.unicodeHighlight.allowedCharacters": {
+        " ": true
+    },
+    "editor.codeActionsOnSave": {
+
+
+
+
+
+    },
+    "git.openRepositoryInParentFolders": "always",
+    "workbench.colorTheme": "monokai-charcoal (gray)",
+    "cmake.configureOnOpen": true,
+    "[python]": {
+        "editor.formatOnType": true
+    },
+    "C_Cpp.default.cppStandard": "c++17",
+    "markdown-preview-enhanced.previewTheme": "one-dark.css",
+    "window.zoomLevel": -1,
+    "vim.commandLineModeKeyBindings": [
+
+    ]
+}

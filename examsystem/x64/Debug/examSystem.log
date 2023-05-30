@@ -1,0 +1,16 @@
+﻿  examSystem.cpp
+D:\VisualStudio\Projects\examSystem\examSystem.cpp(597,17): warning C4244: “初始化”: 从“time_t”转换到“long”，可能丢失数据
+D:\VisualStudio\Projects\examSystem\examSystem.cpp(606,25): warning C4244: “=”: 从“time_t”转换到“long”，可能丢失数据
+D:\VisualStudio\Projects\examSystem\examSystem.cpp(626,15): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+  libManager.cpp
+D:\VisualStudio\Projects\examSystem\libManager.cpp(66,57): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\VisualStudio\Projects\examSystem\libManager.cpp(95,73): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\VisualStudio\Projects\examSystem\libManager.cpp(161,12): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  linkList.cpp
+  utils.cpp
+D:\VisualStudio\Projects\examSystem\utils.cpp(14,25): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\VisualStudio\Projects\examSystem\utils.cpp(14,49): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\VisualStudio\Projects\examSystem\utils.cpp(98,29): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+D:\VisualStudio\Projects\examSystem\utils.cpp(99,23): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+  正在生成代码...
+  examSystem.vcxproj -> D:\VisualStudio\Projects\examSystem\x64\Debug\examSystem.exe
